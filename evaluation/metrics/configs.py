@@ -1,8 +1,8 @@
 import os
 import re
 
-DATASET_ROOT = "../../../uniOCR.bench-v1.0-results"
-# DATASET_ROOT = "../../../uniOCR-results-with-hint"
+# Set the path to the results of GlotOCR per model
+DATASET_ROOT = "/path/to/GlotOCR-results"
 
 RESULT_DIR = "../res_v1.0"
 
