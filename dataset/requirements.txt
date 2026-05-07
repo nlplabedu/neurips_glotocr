@@ -1,0 +1,11 @@
+Pillow==12.1.0
+fonttools==4.61.0
+freetype-py==2.5.1
+opencv-python==4.13.0.92
+uharfbuzz==0.53.3
+regex==2025.11.3
+tqdm==4.67.3
+requests==2.32.5
+numpy==1.26.4
+pandas==2.3.3
+GlotScript==2.0
